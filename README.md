@@ -7,4 +7,4 @@ Thanks to the power of an ESP32 and ESPHome firmware, is possible to drive 6 shu
 
 
 
-<img src="https://github.com/Gio-dot/Six-covers-ESP32-controller/blob/master/img/ESP32-ESPhome-shutters%20relays_schem.png" width="400">
+<img src="https://github.com/Gio-dot/Six-shutters-ESP32-controller/blob/master/img/ESP32-ESPhome-shutters%20relays_schem.png" width="400">
