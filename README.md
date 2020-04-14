@@ -6,6 +6,10 @@ Device used is an ESP32 doit-devkit-v1.
 
 For informations about ESPHome follow this link: https://esphome.io/index.html
 
+Pull up resistors are needed to lower inputs inpedance, in order to avoid electrical effects using long cables. For inputs 34 to 39 it is required even because there are not internal pull ups resistors on these pins.
+
+For shutter N.3 only one button was used (because there was not enough available pins). It works using long press to open and short press to close.
+
 ## Schematic
 ![Schematic](https://github.com/Gio-dot/Six-shutters-ESP32-controller/blob/master/img/ESP32-ESPhome-SHUTTERS_bb.png)
 
