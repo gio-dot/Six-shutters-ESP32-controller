@@ -22,4 +22,7 @@ For shutter N.3 only one button was used (because there was not enough available
 ## Home Assistant Card
 <img src="https://github.com/Gio-dot/Six-shutters-ESP32-controller/blob/master/img/2020-04-14%2015_17_17-Panoramica%20-%20Home%20Assistant.png" width="300">
 
-
+## ESP32 
+<img src="https://github.com/Gio-dot/Six-shutters-ESP32-controller/blob/master/img/ESP32-DOIT-DEVKIT-V1-Board-Pinout-30-GPIOs-Copy.png" width="300">
+<img src="https://github.com/Gio-dot/Six-shutters-ESP32-controller/blob/master/img/ESP32%20IO.jpg" width="300">
+<img src="https://github.com/Gio-dot/Six-shutters-ESP32-controller/blob/master/img/2020-04-14%2014_53_35-SeeKool%20ESP8266%20ESP32%20ESP-32S%20Scheda%20di%20Sviluppo%20per%20Arduino%2C%202.4GHz%20WiFi%20%2B%20Blue.png" width="300">
