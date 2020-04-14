@@ -20,6 +20,6 @@ For shutter N.3 only one button was used (because there was not enough available
 [![Watch the video](https://i9.ytimg.com/vi/tXZTDXVnUaA/mq2.jpg?sqp=CNmq1vQF&rs=AOn4CLDL7M_q2f9vk05kiKEQYxylnUY5xw)](https://youtu.be/tXZTDXVnUaA)
 
 ## Home Assistant Card
-<img src="https://github.com/Gio-dot/Six-shutters-ESP32-controller/blob/master/img/2020-04-14%2015_17_17-Panoramica%20-%20Home%20Assistant.png" width="180">
+<img src="https://github.com/Gio-dot/Six-shutters-ESP32-controller/blob/master/img/2020-04-14%2015_17_17-Panoramica%20-%20Home%20Assistant.png" width="300">
 
 
