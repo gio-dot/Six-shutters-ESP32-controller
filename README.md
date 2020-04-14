@@ -9,6 +9,6 @@ Thanks to an ESP32 and ESPHome firmware, is possible to drive 6 shutters with on
 <img src="https://github.com/Gio-dot/Six-shutters-ESP32-controller/blob/master/img/ESP32-ESPhome-shutters%20relays_schem.png" width="400">
 
 ## A short test video
-![](https://github.com/Gio-dot/Six-shutters-ESP32-controller/blob/master/img/2020-04-14%2015_17_17-Panoramica%20-%20Home%20Assistant.png)
 [![Watch the video](https://i9.ytimg.com/vi/tXZTDXVnUaA/mq2.jpg?sqp=CNmq1vQF&rs=AOn4CLDL7M_q2f9vk05kiKEQYxylnUY5xw)](https://youtu.be/tXZTDXVnUaA)
-
+![](https://github.com/Gio-dot/Six-shutters-ESP32-controller/blob/master/img/2020-04-14%2015_17_17-Panoramica%20-%20Home%20Assistant.png)
+<img src="https://github.com/Gio-dot/Six-shutters-ESP32-controller/blob/master/img/2020-04-14%2015_17_17-Panoramica%20-%20Home%20Assistant.png" width="150">
