@@ -30,6 +30,6 @@ Don't forget to adjust `open_duration` and `close_duration` at the end of this f
 <img src="https://github.com/Gio-dot/Six-shutters-ESP32-controller/blob/master/img/ESP32%20IO.jpg" width="300">
 <img src="https://github.com/Gio-dot/Six-shutters-ESP32-controller/blob/master/img/2020-04-14%2014_53_35-SeeKool%20ESP8266%20ESP32%20ESP-32S%20Scheda%20di%20Sviluppo%20per%20Arduino%2C%202.4GHz%20WiFi%20%2B%20Blue.png" width="300">
 
-## Realy boards
+## Relay boards
 <img src="https://github.com/Gio-dot/Six-shutters-ESP32-controller/blob/master/img/61V2r-tr3eL._SL1001_.jpg" width="300">
 
