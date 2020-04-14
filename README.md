@@ -1,7 +1,9 @@
 # ESPHome 6 shutters controller
 
 Thanks to an ESP32 and ESPHome firmware, it is possible to drive 6 shutters with only 1 device. This controller is then integrated in Home Assistant domotic hub.
+
 Device used is an ESP32 doit-devkit-v1.
+
 For informations about ESPHome follow this link: https://esphome.io/index.html
 
 ## Schematic
