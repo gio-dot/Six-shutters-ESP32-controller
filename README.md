@@ -10,7 +10,7 @@ Pull up resistors are needed to lower inputs inpedance, in order to avoid electr
 
 For shutter N.3 only one button was used (because there was not enough available pins). It works using long press to open and short press to close.
 ##
-How to use: use this yaml code to create your ESPHome firmware: https://github.com/Gio-dot/Six-shutters-ESP32-controller/blob/master/esp32_six_shutters.yaml
+How to use: use this yaml code to create your ESPHome firmware: [esp32_six_shutters.yaml](https://github.com/Gio-dot/Six-shutters-ESP32-controller/blob/master/esp32_six_shutters.yaml)
 ## Schematic
 ![Schematic](https://github.com/Gio-dot/Six-shutters-ESP32-controller/blob/master/img/ESP32-ESPhome-SHUTTERS_bb.png)
 
